@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoDownloader", "RepoDownloader\RepoDownloader.csproj", "{7FA6893F-5CF5-46D9-8FEC-46DB087194EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA6893F-5CF5-46D9-8FEC-46DB087194EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA6893F-5CF5-46D9-8FEC-46DB087194EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA6893F-5CF5-46D9-8FEC-46DB087194EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA6893F-5CF5-46D9-8FEC-46DB087194EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C0979B-1BD7-437B-8A9A-864A7FC0C1AD}
+	EndGlobalSection
+EndGlobal
